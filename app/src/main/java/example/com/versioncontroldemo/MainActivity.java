@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         // I'm done
 
+        // Testing a new commit
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
