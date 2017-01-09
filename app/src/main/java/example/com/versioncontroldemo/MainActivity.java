@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
 
         String user = "Matthew";
 
+        // New Integration
+        
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
